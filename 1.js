@@ -1,5 +1,5 @@
 'use strict'
-//Sofia Kononenko
+//Sofia Kononenko and Sham Hason
 
 //this program checks if the number we want to check is divisible by 2, 3, and 5, then counts and logs the total number of true conditions.
 const num = 0;
