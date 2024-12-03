@@ -1,5 +1,5 @@
 'use strict'
-//Sofia Kononenko
+//Sofia Kononenko and Sham Hason
 
 //this function determines if a number is a prime number
 
